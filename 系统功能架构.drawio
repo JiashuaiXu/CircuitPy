@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2024-09-12T07:51:19.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" etag="G0FGHShY05e_wZ3zvbMx" version="24.4.13" type="github">
+  <diagram name="Page-1" id="INDRcr83sbqrOV5tdD24">
+    <mxGraphModel dx="831" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="doYUgu4SVLDA0ezRQOcN-2" value="质检与验收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="doYUgu4SVLDA0ezRQOcN-3" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="380" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="doYUgu4SVLDA0ezRQOcN-4" value="质检" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="360" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
